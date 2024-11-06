@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\MatrizAdyasencia\bin\Debug\net8.0\MatrizAdyasencia.exe
+C:\Users\franc\source\repos\MatrizAdyasencia\bin\Debug\net8.0\MatrizAdyasencia.deps.json
+C:\Users\franc\source\repos\MatrizAdyasencia\bin\Debug\net8.0\MatrizAdyasencia.runtimeconfig.json
+C:\Users\franc\source\repos\MatrizAdyasencia\bin\Debug\net8.0\MatrizAdyasencia.dll
+C:\Users\franc\source\repos\MatrizAdyasencia\bin\Debug\net8.0\MatrizAdyasencia.pdb
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\MatrizAdyasencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\MatrizAdyasencia.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\MatrizAdyasencia.AssemblyInfo.cs
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\MatrizAdyasencia.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\MatrizAdyasencia.dll
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\refint\MatrizAdyasencia.dll
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\MatrizAdyasencia.pdb
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\MatrizAdyasencia.genruntimeconfig.cache
+C:\Users\franc\source\repos\MatrizAdyasencia\obj\Debug\net8.0\ref\MatrizAdyasencia.dll
