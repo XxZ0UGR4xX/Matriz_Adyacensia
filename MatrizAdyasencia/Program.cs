@@ -12,13 +12,16 @@
         {
             numVertices = vertices;
             matrizAdyacencia = new int[vertices, vertices];
+            
+// constructor de Grafo
         }
 
         // Método para agregar una arista
         public void AgregarArista(int origen, int destino)
         {
             
-            matrizAdyacencia[origen, destino] = 1; // Para un grafo dirigido
+            matrizAdyacencia[origen, destino] = 1; 
+//cabe aclarar que este metodo solo es para un grafo dirigido 
             
         }
 
