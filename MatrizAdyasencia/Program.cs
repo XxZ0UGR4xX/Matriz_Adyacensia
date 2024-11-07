@@ -21,7 +21,7 @@
         {
             
             matrizAdyacencia[origen, destino] = 1; 
-//cabe aclarar que este metodo solo es para un grafo dirigido 
+ 
             
         }
 
